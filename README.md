@@ -12,4 +12,6 @@ for running this app , you have to sign up to cloudinary account and note your p
 ### for screenshots 
 
 <img> ![Screenshot](ss1.png) </img>
+-------------------------------------
+
 <img> ![Screenshot](ss2.png) </img>
